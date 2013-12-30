@@ -17828,3 +17828,1460 @@ Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:43:09 -0900
+
+
+Started GET "/projects" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+Processing by UsersController#projects as HTML
+  Rendered users/projects.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:45:31 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:45:32 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 9ms (Views: 7.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:45:32 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:46:17 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 32ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:46:17 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:46:38 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:46:55 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 10ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:46:58 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:37 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:47:49 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 11ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:47:50 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:48:02 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 9ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:02 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:03 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:48:09 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.9ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 12ms (Views: 9.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:09 -0900
+
+
+Started GET "/about" for 127.0.0.1 at 2013-12-30 00:48:11 -0900
+Processing by UsersController#about as HTML
+  Rendered users/about.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:11 -0900
+
+
+Started GET "/contact" for 127.0.0.1 at 2013-12-30 00:48:12 -0900
+Processing by UsersController#contact as HTML
+  Rendered users/contact.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:12 -0900
+
+
+Started GET "/assets/github.png" for 127.0.0.1 at 2013-12-30 00:48:12 -0900
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2013-12-30 00:48:12 -0900
+
+
+Started GET "/assets/linkedin.png" for 127.0.0.1 at 2013-12-30 00:48:12 -0900
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2013-12-30 00:48:12 -0900
+
+
+Started GET "/projects" for 127.0.0.1 at 2013-12-30 00:48:13 -0900
+Processing by UsersController#projects as HTML
+  Rendered users/projects.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:13 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:48:14 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 12ms (Views: 9.1ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:14 -0900
+
+
+Started GET "/contact" for 127.0.0.1 at 2013-12-30 00:48:15 -0900
+Processing by UsersController#contact as HTML
+  Rendered users/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:15 -0900
+
+
+Started GET "/assets/github.png" for 127.0.0.1 at 2013-12-30 00:48:15 -0900
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2013-12-30 00:48:15 -0900
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2013-12-30 00:48:15 -0900
+
+
+Started GET "/assets/linkedin.png" for 127.0.0.1 at 2013-12-30 00:48:15 -0900
+
+
+Started GET "/contact" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+Processing by UsersController#contact as HTML
+  Rendered users/contact.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/github.png" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/assets/linkedin.png" for 127.0.0.1 at 2013-12-30 00:48:44 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:48:55 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.7ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:55 -0900
+
+
+Started GET "/projects" for 127.0.0.1 at 2013-12-30 00:48:56 -0900
+Processing by UsersController#projects as HTML
+  Rendered users/projects.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:48:56 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:49:13 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:50:16 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.8ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:50:16 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:50:23 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.6ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:50:24 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.3ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 5)
+  Rendered posts/index.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 34ms (Views: 18.4ms | ActiveRecord: 4.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:53:58 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 23ms (Views: 15.6ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:54:10 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.6ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:55:28 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:55:31 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:55:31 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:55:31 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 10ms (Views: 7.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:55:31 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.6ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:58:33 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:12 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 8.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 00:59:49 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.2ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 16ms (Views: 13.0ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:46 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:00:55 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 12ms (Views: 9.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:01:03 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 10ms (Views: 7.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:07 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 12ms (Views: 10.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:01:12 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:01:14 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 11ms (Views: 9.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:01:14 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:02:02 -0900
+Processing by PostsController#index as HTML
+ERROR: compiling _app_views_posts_index_html_erb___2461917301900815702_70208522004940 RAISED /Users/rwarbelow/Desktop/rachelsblog/app/views/posts/index.html.erb:18: syntax error, unexpected ':', expecting ')'
+...?post_end=#{(@post_end + 5)}" : "/" );@output_buffer.safe_ap...
+...                               ^
+Function body:           def _app_views_posts_index_html_erb___2461917301900815702_70208522004940(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "posts/index";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_append='<div class="pure-u-1">
+  <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
+';   @posts.each do |post| 
+@output_buffer.safe_append='    <div>
+      <h1>';@output_buffer.append=( post.title );@output_buffer.safe_append='</h1>
+      <h6>';@output_buffer.append=( post.date.strftime('%A, %B %e, %Y') if post.date );@output_buffer.safe_append='</h6>
+    </div>
+    <div>';@output_buffer.append=( post.text.html_safe );@output_buffer.safe_append='</div>
+    <br>
+    <br>
+    <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
+    <br>
+';   end 
+@output_buffer.safe_append='</div>
+<footer style="padding:20px; text-align:center; width: 100%">
+    <ul class="pure-paginator">
+      <li style="border:2px solid #C9C2BA"><a class="pure-button prev" href= ';@output_buffer.append=( (@post_start - 5) > 0 ? "/?post_start=#{(@post_start - 5)}" : "/" );@output_buffer.safe_append=' method="get">&#171;</a></li>
+      <li style="border:2px solid #C9C2BA"><a class="pure-button next" href= ';@output_buffer.append=("/?post_end=#{(@post_end + 5)}" : "/" );@output_buffer.safe_append=' method="get">&#187;</a></li>
+    </ul>
+  </footer>
+';@output_buffer.append=( button_to 'New Post', new_post_path, :class => "pure-button", :method => "get" );@output_buffer.safe_append='
+';@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/template.rb:299:in `module_eval'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/template.rb:299:in `compile'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/template.rb:248:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/template.rb:236:in `compile!'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/template.rb:142:in `block in render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications.rb:161:in `instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/template.rb:141:in `render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:17:in `render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_view/renderer/renderer.rb:23:in `render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:127:in `_render_template'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/streaming.rb:219:in `_render_template'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:120:in `render_to_body'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:97:in `render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:16:in `render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activerecord-4.0.1/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/base.rb:189:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:413:in `_run__4153972089265784968__process_action__callbacks'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `instrument'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activerecord-4.0.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/base.rb:136:in `process'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:44:in `process'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal.rb:195:in `dispatch'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_controller/metal.rb:231:in `block in action'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:80:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:48:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:71:in `block in call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:59:in `each'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:59:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:680:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/etag.rb:23:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/conditionalget.rb:25:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/flash.rb:241:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/cookies.rb:486:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activerecord-4.0.1/lib/active_record/query_cache.rb:36:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activerecord-4.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activerecord-4.0.1/lib/active_record/migration.rb:369:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:373:in `_run__639425851914847306__call__callbacks'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/reloader.rb:64:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/railties-4.0.1/lib/rails/rack/logger.rb:38:in `call_app'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/railties-4.0.1/lib/rails/rack/logger.rb:20:in `block in call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:67:in `block in tagged'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:25:in `tagged'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:67:in `tagged'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/railties-4.0.1/lib/rails/rack/logger.rb:20:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-4.0.1/lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/static.rb:64:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/sendfile.rb:112:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/railties-4.0.1/lib/rails/engine.rb:511:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/railties-4.0.1/lib/rails/application.rb:97:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+/usr/local/rvm/gems/ruby-1.9.3-p194/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+/usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+/usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+/usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+  Rendered posts/index.html.erb within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (/Users/rwarbelow/Desktop/rachelsblog/app/views/posts/index.html.erb:18: syntax error, unexpected ':', expecting ')'
+...?post_end=#{(@post_end + 5)}" : "/" );@output_buffer.safe_ap...
+...                               ^):
+    15: <footer style="padding:20px; text-align:center; width: 100%">
+    16:     <ul class="pure-paginator">
+    17:       <li style="border:2px solid #C9C2BA"><a class="pure-button prev" href= <%= (@post_start - 5) > 0 ? "/?post_start=#{(@post_start - 5)}" : "/" %> method="get">&#171;</a></li>
+    18:       <li style="border:2px solid #C9C2BA"><a class="pure-button next" href= <%="/?post_end=#{(@post_end + 5)}" : "/" %> method="get">&#187;</a></li>
+    19:     </ul>
+    20:   </footer>
+    21: <%= button_to 'New Post', new_post_path, :class => "pure-button", :method => "get" %>
+  actionpack (4.0.1) lib/action_view/template.rb:299:in `module_eval'
+  actionpack (4.0.1) lib/action_view/template.rb:299:in `compile'
+  actionpack (4.0.1) lib/action_view/template.rb:248:in `block in compile!'
+  <internal:prelude>:10:in `synchronize'
+  actionpack (4.0.1) lib/action_view/template.rb:236:in `compile!'
+  actionpack (4.0.1) lib/action_view/template.rb:142:in `block in render'
+  activesupport (4.0.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionpack (4.0.1) lib/action_view/template.rb:141:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:17:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:127:in `_render_template'
+  actionpack (4.0.1) lib/action_controller/metal/streaming.rb:219:in `_render_template'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:120:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:97:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:413:in `_run__4153972089265784968__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__639425851914847306__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (19.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:02:09 -0900
+
+
+Started GET "/?post_end=7" for 127.0.0.1 at 2013-12-30 01:02:14 -0900
+Processing by PostsController#index as HTML
+  Parameters: {"post_end"=>"7"}
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:02:14 -0900
+
+
+Started GET "/?post_end=7" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+Processing by PostsController#index as HTML
+  Parameters: {"post_end"=>"7"}
+  [1m[35mPost Load (0.7ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 12ms (Views: 9.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:03:33 -0900
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-30 01:03:34 -0900
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 8ms (Views: 6.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:03:34 -0900
+
+
+Started GET "/?post_end=7" for 127.0.0.1 at 2013-12-30 01:03:48 -0900
+Processing by PostsController#index as HTML
+  Parameters: {"post_end"=>"7"}
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 5.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:03:48 -0900
+
+
+Started GET "/?post_end=7" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+Processing by PostsController#index as HTML
+  Parameters: {"post_end"=>"7"}
+  [1m[36mPost Load (0.7ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 32ms (Views: 20.9ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 01:03:58 -0900
+
+
+Started GET "/?post_end=7" for 127.0.0.1 at 2013-12-30 01:03:59 -0900
+Processing by PostsController#index as HTML
+  Parameters: {"post_end"=>"7"}
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)
+  Rendered posts/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 7ms (Views: 5.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:03:59 -0900
