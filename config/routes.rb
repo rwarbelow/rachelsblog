@@ -1,7 +1,9 @@
 Rachelsblog::Application.routes.draw do
   resources :users
   resources :posts
-  get 'about', to: 'home#about'
+  get 'about', to: 'users#about'
+  get 'contact', to: 'users#contact'
+  get 'projects', to: 'users#projects'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

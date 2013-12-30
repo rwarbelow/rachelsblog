@@ -1,4 +1,5 @@
 <div class="pure-u-1">
+  <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
   <% @posts.each do |post| %>
     <div>
       <h1><%= post.title %></h1>
@@ -6,9 +7,15 @@
     </div>
     <div><%= post.text.html_safe %></div>
     <br>
-    <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
     <br>
+    <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
     <br>
   <% end %>
 </div>
+<footer style="padding:20px; text-align:center; width: 100%">
+    <ul class="pure-paginator">
+      <li style="border:2px solid #C9C2BA"><a class="pure-button prev" href="#">&#171;</a></li>
+      <li style="border:2px solid #C9C2BA"><a class="pure-button next" href="#">&#187;</a></li>
+    </ul>
+  </footer>
 <%= button_to 'New Post', new_post_path, :class => "pure-button", :method => "get" %>

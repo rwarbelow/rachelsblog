@@ -15,9 +15,10 @@
 
   
 <%= form_for @post do |f| %>
-  <%= f.text_field :title %>
+  <%= f.text_field :title, :placeholder => 'Title' %>
   <%= f.text_field :date, :placeholder => "YYYY-MM-DD", :value => Date.today() %>
   <%= f.text_area :text %>
+  <br>
   <%= f.submit :value => "Post!", :class => "pure-button" %>
 <% end %>
 
