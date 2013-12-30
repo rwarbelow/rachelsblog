@@ -19285,3 +19285,47 @@ Completed 200 OK in 7ms (Views: 5.4ms | ActiveRecord: 0.5ms)
 
 
 Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 01:03:59 -0900
+
+
+Started GET "/?post_end=7" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+Processing by PostsController#index as HTML
+  Parameters: {"post_end"=>"7"}
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE ("posts"."id" BETWEEN 1 AND 2)[0m
+  Rendered posts/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 13ms (Views: 10.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/wymeditor.min.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2013-12-30 11:19:01 -0900
