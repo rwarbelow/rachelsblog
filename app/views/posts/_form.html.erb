@@ -1,0 +1,26 @@
+<div class="pure-u-1-1">
+
+<%= form_for(@post) do |f| %>
+  <% if @post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% @post.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  
+<%= form_for @post do |f| %>
+  <%= f.text_field :title %>
+  <%= f.text_field :date, :placeholder => "YYYY-MM-DD", :value => Date.today() %>
+  <%= f.text_area :text %>
+  <%= f.submit :value => "Post!", :class => "pure-button" %>
+<% end %>
+
+<% end %>
+
+</div>

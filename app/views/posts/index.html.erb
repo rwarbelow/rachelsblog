@@ -1,0 +1,14 @@
+<div class="pure-u-1">
+  <% @posts.each do |post| %>
+    <div>
+      <h1><%= post.title %></h1>
+      <h6><%= post.date.strftime('%A, %B %e, %Y') if post.date %></h6>
+    </div>
+    <div><%= post.text.html_safe %></div>
+    <br>
+    <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
+    <br>
+    <br>
+  <% end %>
+</div>
+<%= button_to 'New Post', new_post_path, :class => "pure-button", :method => "get" %>

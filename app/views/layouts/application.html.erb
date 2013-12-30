@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rachelsblog</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+<script src="//tinymce.cachefly.net/4.0/tinymce.min.js"></script>
+<script>
+        tinymce.init({selector:'textarea'});
+</script>  <%= csrf_meta_tags %>
+</head>
+<body>
+	<div style="width:100%;padding-left:95px"> <%= image_tag'logo.png' %> <div class="pure-menu pure-menu-open pure-menu-horizontal">
+    <ul>
+        <li><%= link_to "home", root_path %></li>
+        <li><%= link_to "about me", root_path %></li>
+        <li><%= link_to "contact", root_path %></li>
+    </ul>
+</div>
+</div>
+	<div class="container pure-g-r">
+		<%= yield %>
+	</div>
+	<footer style="padding:20px; text-align:center; width: 100%">
+		<ul class="pure-paginator">
+	    <li><a class="pure-button prev" href="#">&#171;</a></li>
+	    <li><a class="pure-button" href="#">1</a></li>
+	    <li><a class="pure-button" href="#">2</a></li>
+	    <li><a class="pure-button" href="#">3</a></li>
+	    <li><a class="pure-button" href="#">4</a></li>
+	    <li><a class="pure-button" href="#">5</a></li>
+	    <li><a class="pure-button next" href="#">&#187;</a></li>
+		</ul>
+	</footer>
+</body>
+</html>
+
