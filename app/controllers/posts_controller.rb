@@ -4,10 +4,7 @@ class PostsController < ApplicationController
   # GET /posts
   # GET /posts.json
   def index
-    p params
-    @post_start = params[:start].nil? ? 1 : params[:number].to_i
-    @post_end = params[:end].nil? ? 2 : params[:number].to_i
-    @posts = Post.where(:id => @post_start..@post_end)
+    @posts = Post.paginate(:page => params[:page], :per_page => 5)
   end
 
   # GET /posts/1

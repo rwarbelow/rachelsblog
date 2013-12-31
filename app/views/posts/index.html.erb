@@ -1,3 +1,4 @@
+
   <br>
   <div style="width:100%;height:5px;background-color: #C9C2BA;">&nbsp;</div>
   <% @posts.each do |post| %>
@@ -12,9 +13,6 @@
     <br>
   <% end %>
 <footer style="padding:20px; text-align:center; width: 100%">
-    <ul class="pure-paginator">
-      <li style="border:2px solid #C9C2BA"><a class="pure-button prev" href= <%= (@post_start - 5) > 0 ? "/?post_start=#{(@post_start - 5)}" : "/" %> method="get">&#171;</a></li>
-      <li style="border:2px solid #C9C2BA"><a class="pure-button next" href= <%="/?post_end=#{(@post_end + 5)}"%> method="get">&#187;</a></li>
-    </ul>
-  </footer>
+    <%= will_paginate @posts %>
+</footer>
 <%= button_to 'New Post', new_post_path, :class => "pure-button", :method => "get" %>
