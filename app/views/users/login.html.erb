@@ -1,0 +1,5 @@
+<%= form_for @user, :url => {:action => "set_session"} do |f| %>
+	<%= f.text_field :username, :placeholder => "username" %> <br>
+	<%= f.password_field :password, :placeholder => "password" %> <br>
+	<%= f.submit :value => "Go!", :class => "pure-button" %>
+<% end %>

@@ -4,6 +4,8 @@ Rachelsblog::Application.routes.draw do
   get 'about', to: 'users#about'
   get 'contact', to: 'users#contact'
   get 'projects', to: 'users#projects'
+  get 'login', to: 'users#login'
+  post 'set_session', to: 'users#set_session'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

@@ -10,6 +10,7 @@ class UsersController < ApplicationController
   # GET /users/1
   # GET /users/1.json
   def show
+    @posts = Post.where(:user_id => current_user.id).sort! { |a, b| b.date <=> a.date}
   end
 
   # GET /users/new
@@ -68,6 +69,23 @@ class UsersController < ApplicationController
   end
 
   def projects
+  end
+
+  def login
+    @user = User.new
+  end
+  
+  def set_session
+    p "GOT HERE!!!"
+    @user = User.find_by_username(params[:user][:username])
+    if @user && @user.authenticate(params[:user][:password])
+      session[:user_id] = @user.id
+      redirect_to user_path(@user)
+    else
+      @user = User.new
+      flash[:errors] = "Invalid Login"
+      render 'users/login'
+    end
   end
 
   private
